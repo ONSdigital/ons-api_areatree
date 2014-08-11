@@ -44,7 +44,7 @@ var endpoint ="http://data.ons.gov.uk/ons/api/data/hierarchy/";
 
 // Context (census, economic, etc)
 var context = "?context=Census";
-var apiKey = "&apikey=0YOH4UDkTJ";
+var apiKey = "&apikey=INSERT_YOUR_API_KEY_HERE";
 
 // Geographical Hierarchy
 var hierarchy = "&geog=";
